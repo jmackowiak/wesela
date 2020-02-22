@@ -1,0 +1,49 @@
+﻿.baner
+{
+	background-color: #1C59A7;
+	color: white;
+	text-align: center;
+	height: 80px;
+}
+#panel_lewy
+{
+	background-color: #3A70B5;
+	width: 33%;
+	height: 200px;
+	float: left;
+}
+#panel_srodkowy
+{
+	background-color: #5A8AC8;
+	width: 33%;
+	height: 200px;
+	float: left;
+}
+.panel_prawy
+{
+	background-color: #86ACDD;
+	text-align: center;
+	width: 34%;
+	height: 200px;
+	float: left;
+}
+#osobny
+{
+	background-color: yellow;
+	color: blue;
+	padding: 10px;
+}
+.panel_dolny
+{
+	background-color: #86ACDD;
+	text-align: center;
+	height: 300px;
+	clear: both;
+}
+.stopka
+{
+	background-color: #1C59A7;
+	color: white;
+	clear: both;
+	padding: 0.5px;
+}
